@@ -1,0 +1,3 @@
+[submodule "2-PyTorch/torch4hep"]
+	path = 2-PyTorch/torch4hep
+	url = https://github.com/slowmoyang/torch4hep.git
